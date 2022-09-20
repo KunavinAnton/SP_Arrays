@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663654739 source:c:\users\310-07\documents\murad & anton\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
